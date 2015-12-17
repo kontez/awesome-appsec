@@ -116,6 +116,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Python](#python)
     * [Books and ebooks](#books-and-ebooks-7)
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
+      * [Violent Python](#violent-python) ![nonfree](img/nonfree.png)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
@@ -534,6 +535,10 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+### ![nonfree](img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
 ## Websites
 
